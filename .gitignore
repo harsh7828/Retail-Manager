@@ -1,17 +1,10 @@
-# Python
 .venv/
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+.env
 profitpilot.db
-
-# Node
 node_modules/
 dist/
 build/
-
-# Env
-.env
-
-# OS
-.DS_Store
-Thumbs.db
