@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+pandas
+numpy
+xgboost
+python-dateutil
